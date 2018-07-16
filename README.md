@@ -9,4 +9,6 @@
  * [Adaptive Bayesian Optimisation for Online Portfolio Selection](http://www.robots.ox.ac.uk/~mosb/public/pdf/1566/NyikosaOsborneRobertsNipsBayesopt2015.pdf)
  
  ## Applications
+ 
+ * Portfolio selection
 
