@@ -12,5 +12,5 @@
  
  * Portfolio selection
  
- * Sensor set location
+ * Sensor set selection
 
