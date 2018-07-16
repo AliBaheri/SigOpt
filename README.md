@@ -1,3 +1,3 @@
 # Fellowship SigOpt:
 
- * [Model-Free Episodic Control](http://arxiv.org/abs/1606.04460)
+ * [Bayesian Optimization for Dynamic Problems](https://arxiv.org/pdf/1803.03432.pdf)
