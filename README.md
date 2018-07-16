@@ -11,4 +11,6 @@
  ## Applications
  
  * Portfolio selection
+ 
+ * Sensor set location
 
