@@ -1,6 +1,6 @@
 # Fellowship SigOpt: 
   
- * Key question:
+ * Key question: How we can extend the generic version of Bayesain Optimization if the underlying objective function is time-varying.
 
 ## Papers
 
