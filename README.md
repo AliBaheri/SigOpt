@@ -10,9 +10,7 @@
     * Key idea: Context-dependent Bayesian Optimization is introduced to handle the time-varying nature of the wind shear profile (wind speed vs. altitude).
  
  * [Context-Dependent Bayesian Optimization in Real-Time Optimal Control: A Case Study in Airborne Wind Energy Systems](https://bayesopt.github.io/papers/2017/5.pdf)
- 
-    * Key idea:
- 
+  
  * [Adaptive Bayesian Optimisation for Online Portfolio Selection](http://www.robots.ox.ac.uk/~mosb/public/pdf/1566/NyikosaOsborneRobertsNipsBayesopt2015.pdf)
  
     * Key idea:
