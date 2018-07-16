@@ -1,5 +1,6 @@
 # Fellowship SigOpt: 
-    # Key question:
+  
+ * Key question:
 
 ## Papers
 
