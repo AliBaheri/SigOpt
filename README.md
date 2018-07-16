@@ -13,6 +13,7 @@
  ## Applications
  
  * Portfolio selection
+    * ali
  
  * Sensor set selection
 
