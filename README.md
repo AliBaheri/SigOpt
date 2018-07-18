@@ -22,4 +22,6 @@
  * Portfolio selection
  
  * Sensor set selection
+ 
+ * And in general in any problem whose environment is changing both in sapce and time. 
 
