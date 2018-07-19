@@ -1,4 +1,4 @@
-# Fellowship SigOpt: 
+# Time-varying objective function: 
   
  * **Key question**: How we can extend the generic version of Bayesain Optimization if the underlying objective function is a time-varying function or if we are in a spatiotemporal (i.e., dynamic) environment?
 
