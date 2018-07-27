@@ -29,4 +29,7 @@
  * coming soon...
  
  ## Week 2
+ 
+ Interesting paper:
+   * [Time-Varying Gaussian Process Bandit Optimization](https://arxiv.org/pdf/1601.06650.pdf)
 
