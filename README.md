@@ -15,8 +15,6 @@
   
  * [Adaptive Bayesian Optimisation for Online Portfolio Selection](http://www.robots.ox.ac.uk/~mosb/public/pdf/1566/NyikosaOsborneRobertsNipsBayesopt2015.pdf)
  
- * [Time-Varying Gaussian Process Bandit Optimization]
- 
  
  ## Applications
  
@@ -30,5 +28,5 @@
  
  * coming soon...
  
- # Week 2
+ ## Week 2
 
