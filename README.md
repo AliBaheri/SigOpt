@@ -36,7 +36,7 @@
  
  ## Week 3
  
-What we talked:
+What we talked about:
   * Can we employ recurrent neural network instead of Gaussian process as a probabilistic model? What are the pros and cons?
   
   
