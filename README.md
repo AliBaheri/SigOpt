@@ -33,5 +33,13 @@
  Interesting paper:
  * [Time-Varying Gaussian Process Bandit Optimization](https://arxiv.org/pdf/1601.06650.pdf)
  * [Time-Varying Optimization: Algorithms and Engineering Applications](https://arxiv.org/abs/1807.07032)
+ 
+ ## Week 3
+ 
+What we talked:
+  * Can we employ recurrent neural network instead of Gaussian process as a probabilistic model? What are the pros and cons?
+  
+  
+ 
      
 
